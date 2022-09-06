@@ -62,6 +62,10 @@ color: var(--accent-color);
     background-color: #2196F3;
   }
 
+  .btn {
+    cursor: pointer;
+  }
+
   /* Hide heading */
 .visually-hidden {
     position: absolute;
