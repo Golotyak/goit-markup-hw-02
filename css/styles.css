@@ -92,7 +92,7 @@ color: var(--accent-color);
 }
 
 .header-logo-ingridient {
-    color: var(--secondary-text-color)
+    color: var(--secondary-text-color);
 }
 
 .header{
