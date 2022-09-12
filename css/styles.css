@@ -216,6 +216,7 @@ letter-spacing: 0.02em;
 
 .footer-address {
     color: var(--primary-title-color);
+    font-style: normal;
     font-size: 14px;
     line-height: 1.8;
     letter-spacing: 0.03em;
